@@ -33,9 +33,13 @@ Ensure the following tools are installed on your system:
    cd freelance-service-management
 
    
-Install dependencies:
-npm install  
-Start Ganache and note the RPC server URL (e.g., http://127.0.0.1:7545) and network ID.
+## Setup and Deployment Instructions
+
+1. **Install Dependencies**  
+   Run the following command to install all necessary npm packages:  
+   ```bash
+   npm install
+
 
 Compile the smart contracts:
 truffle compile 
