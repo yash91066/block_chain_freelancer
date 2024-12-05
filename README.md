@@ -29,7 +29,7 @@ Ensure the following tools are installed on your system:
 ### **Setup Steps**  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/freelance-service-management.git  
+   git clone https://github.com/yash91066/block_chain_freelancer.git
    cd freelance-service-management
 
    
